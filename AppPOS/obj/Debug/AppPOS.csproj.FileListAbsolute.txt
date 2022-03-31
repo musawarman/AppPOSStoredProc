@@ -1,0 +1,10 @@
+C:\Users\Auruman\source\repos\AppPOS\bin\Debug\AppPOS.exe.config
+C:\Users\Auruman\source\repos\AppPOS\bin\Debug\AppPOS.exe
+C:\Users\Auruman\source\repos\AppPOS\bin\Debug\AppPOS.pdb
+C:\Users\Auruman\source\repos\AppPOS\obj\Debug\AppPOS.csproj.AssemblyReference.cache
+C:\Users\Auruman\source\repos\AppPOS\obj\Debug\AppPOS.Produk.resources
+C:\Users\Auruman\source\repos\AppPOS\obj\Debug\AppPOS.Properties.Resources.resources
+C:\Users\Auruman\source\repos\AppPOS\obj\Debug\AppPOS.csproj.GenerateResource.cache
+C:\Users\Auruman\source\repos\AppPOS\obj\Debug\AppPOS.csproj.CoreCompileInputs.cache
+C:\Users\Auruman\source\repos\AppPOS\obj\Debug\AppPOS.exe
+C:\Users\Auruman\source\repos\AppPOS\obj\Debug\AppPOS.pdb
